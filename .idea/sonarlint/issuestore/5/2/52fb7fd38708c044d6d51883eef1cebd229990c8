@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úş‘¸ùÿÿÿÿ8¶õ†Ü0
+L
+java:S1197"*Move the array designators [] to the type.(ËÔÌâøÿÿÿÿ8·õ†Ü0
+D
+java:S1125)"'Remove the unnecessary boolean literal.(°·†±8¹õ†Ü0
+@
+java:S16597"#Declare "right" on a separate line.(Êì‡ò8ºõ†Ü0

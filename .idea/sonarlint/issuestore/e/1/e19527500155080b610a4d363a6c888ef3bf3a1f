@@ -1,0 +1,12 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(×ñ§Îüÿÿÿÿ
+P
+java:S1854!"5Remove this useless assignment to local variable "x".(Í§ªšúÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ò¢£»
+E
+java:S1197!"*Move the array designators [] to the type.(Í§ªšúÿÿÿÿ
+A
+java:S1481!"&Remove this unused "x" local variable.(Í§ªšúÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜

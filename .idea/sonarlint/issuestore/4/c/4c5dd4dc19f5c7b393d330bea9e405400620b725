@@ -1,0 +1,10 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Î±ä
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(‹ÿî­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "n".(˜õª»ÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+A
+java:S1481"&Remove this unused "n" local variable.(˜õª»ÿÿÿÿÿ

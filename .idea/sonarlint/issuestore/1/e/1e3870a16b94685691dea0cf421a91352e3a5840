@@ -1,0 +1,19 @@
+
+E
+java:S1172"/Remove these unused method parameters "n", "m".(ëµÑ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(ç–„±ûÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(´®Z
+@
+java:S1197)"*Move the array designators [] to the type.(ò¢£»
+E
+java:S1197."*Move the array designators [] to the type.(°æşÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(â—ûÿÿÿÿ
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+<
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí
+<
+java:S1128"&Remove this unused import 'java.math'.(âî©
+B
+java:S1128	",Remove this unused import 'java.util.regex'.(£‘¬Ş

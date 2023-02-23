@@ -1,0 +1,11 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Ñşÿÿÿÿ8Ë”ÿÏ0
+t
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(³®Á…ÿÿÿÿÿ8¬Ÿ”ÿÏ0
+C	java:S131 ""Add a default case to this switch.(Œ¼’ şÿÿÿÿ8²Ÿ”ÿÏ0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ãîªô8´Ÿ”ÿÏ0
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(®›ó·8´Ÿ”ÿÏ0
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8Õš•ÿÏ0

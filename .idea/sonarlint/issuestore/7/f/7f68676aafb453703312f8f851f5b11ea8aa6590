@@ -1,0 +1,17 @@
+
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ıŞ„şÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(‡Ã˜õÿÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(Ö®¯¿şÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ºŒ¥ıÿÿÿÿ
+?
+java:S1197$"*Move the array designators [] to the type.(ìµñ
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(±­¨ùÿÿÿÿ8¸õºœÅ0
+V	java:S125,"<This block of commented-out lines of code should be removed.(ÔÑÌ”ûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

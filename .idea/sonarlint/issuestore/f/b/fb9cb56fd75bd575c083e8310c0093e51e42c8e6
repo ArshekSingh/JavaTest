@@ -1,0 +1,15 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ø×ôâ
+g
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(”ÒÿÁøÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(”ÒÿÁøÿÿÿÿ
+@
+java:S1197("*Move the array designators [] to the type.(ÿüõ×
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(º¼É°
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+E
+java:S11970"*Move the array designators [] to the type.(ì…ãüüÿÿÿÿ
+E
+java:S11971"*Move the array designators [] to the type.(ÀÊà¢ıÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(²âƒ™

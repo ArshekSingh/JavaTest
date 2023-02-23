@@ -1,0 +1,17 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¿’¥ıÿÿÿÿ
+k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ö¬øÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "ch".(‹·ÌÙøÿÿÿÿ
+=
+java:S1481"'Remove this unused "ch" local variable.(“¶˜ì
+V	java:S125"<This block of commented-out lines of code should be removed.(‡Œ‰°şÿÿÿÿ
+E
+java:S1197&"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(ü„ê!

@@ -1,5 +1,5 @@
 package test.sorting;
-
+//self done
 public class InsertionSortEx2 {
     public void insertionSort(int arr[]) {
         for(int i=1; i< arr.length; i++) {

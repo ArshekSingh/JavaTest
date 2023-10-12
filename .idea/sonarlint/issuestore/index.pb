@@ -25,12 +25,6 @@ R
 "src/test/generics/GenericsEx2.java,c\8\c8038c65cfbe22cabd9c4686ed0ea1cf65f547f0
 <
 JavaTest.iml,0\4\04f28e2a82ce480344aa137fbd87e56d9a397762
-X
-(src/test/lambda/FunctionalInterface.java,5\6\564d3fbf0203ee9beea780e39ddb68c3d23a6c4d
-Y
-)src/test/lambda/FunctionalInterface2.java,2\9\296de97bf848649e357124f5ba771a3b675f6e0b
-V
-&src/test/lambda/LambdaExpression3.java,6\9\69990aa2ac27852b1925947ca378631b015cd86b
 V
 &src/test/PrintLeftRightRangeArray.java,3\f\3f8711446b0cf4a4f75ec2dcdb754369486fcd84
 W
@@ -59,10 +53,6 @@ S
 #src/test/sorting/SelectionSort.java,7\b\7b7bf404a03f2866fee16ebe08bd0fec94f00d20
 T
 $src/test/sorting/SelectionSort2.java,2\d\2db94db025196427cccb737863a7341da55d59cc
-V
-&src/test/lambda/LambdaExpression2.java,c\e\ce1273d4c3a308530e2cceefea63a76184033fd5
-U
-%src/test/lambda/LambdaExpression.java,e\e\ee28c216cb3f3533ad6d114c106b6b94eaee2321
 W
 'src/test/linkedlist/LinkedListDemo.java,2\2\224b9dce2223f60c2e96fb0e72461c7171aa0a45
 e
@@ -83,8 +73,6 @@ O
 src/test/recurssion/Fibbo2.java,7\7\772a60fcfde849e99a4a331d71cfcc35a2465c0a
 Z
 *src/test/two_pointers/TwoPointersExp1.java,8\e\8ede9b551cb813cba108da1d37192d51326d1471
-P
- src/test/arrays/ArrayListEx.java,5\1\5122a4dd02ad3e9b6569e301414d5ef7757d15f7
 Q
 !src/test/arrays/FindAbsValue.java,e\c\ec0452c48a499f7de526243c2c2626dc83df25d7
 O
@@ -121,3 +109,51 @@ X
 .src/test/multithreading/MultithreadingEx1.java,c\8\c8319b6bdc0879c418a87f433dc560db6e660453
 c
 3src/test/multithreading/MultiThreadingConcepts.java,9\a\9ad33bf0a10ccede488690728def18048d4bf4f2
+^
+.src/test/string_builder/StringNameMatcher.java,b\3\b349a5eba4bc84e5c7ac6b4de94624a825f6efef
+^
+.src/test/multithreading/ConcurrentExample.java,9\d\9d93119306f5e8cc50a306c134e0ce1b262b8b43
+N
+src/test/streams/Employee.java,2\c\2cb94746dacb30b301ea0a172674878f5af65d58
+V
+&src/test/arrays/FindMissingNumber.java,b\b\bb3f4d1e61cdd728804d650cb185ee6fdc37cdaf
+S
+#src/test/linkedlist/LinkedList.java,2\5\2547766210ff709451ac1c902630dcf4841ca4f9
+P
+ src/test/sorting/MergeSort2.java,6\4\64721f1c83eee8423e2b315cd0b2364526bf65bc
+L
+src/test/queue/QueueEx1.java,0\8\082d5bd2d356dced5eb5b1362d2eb19493e076ee
+Q
+!src/test/arrays/ReadFromFile.java,1\b\1ba88e6b292f1cbab9372a743514601c1eefbbac
+\
+,src/test/string_builder/RemoveElements2.java,4\1\4144f88e45b4fd877d5aa1ffcb4046b37d0f4a2a
+_
+/src/test/string_builder/RemoveSAmeElements.java,e\0\e0beda79ad13be914f82739c1f7a5e2c7e084631
+U
+%src/test/streams/StreamForEachEx.java,5\c\5c43cd19b40fd562d3347c40150f6e6e1dd79a42
+A
+src/test/url.java,a\2\a2a8299ddbb6fb87d9e145aaa7925912768ae012
+b
+2src/test/multithreading/ImplRunnableInterface.java,a\f\afddc305d5ce8eade370f2ae5abc9eb077d02ec1
+e
+5src/test/string_builder/MaxDistinctFilesInBucket.java,a\a\aa26d316cf62807205a1953af2dc4c155e81497c
+P
+ src/test/sorting/BubbleSort.java,8\3\8321361300d5813452767f69ec0ef13c6a1b22ec
+\
+,src/test/sliding_window/MaxSubStringSum.java,a\3\a3f0a83222c5997de520bb9074650c3a5abc53dd
+T
+$src/test/arraylist/StringConcat.java,5\f\5fa380e99a8594371774ffbc1921ae9a7511608f
+g
+7src/test/sliding_window/LongestSubstringKDistinct3.java,0\b\0ba4e456ce06f7e5c4b02dfd4496d468c365f082
+W
+'src/test/searching/BinarySearchEx2.java,e\6\e67b06b10e042339d549129a62443828eefbd59d
+f
+6src/test/sliding_window/LongestSubstringKDistinct.java,6\c\6ca7c4c883c4514784da4d9d7c09a009f4487e8e
+S
+#src/test/arrays/SortZeroAndOne.java,3\4\34c362f536c0fe3f37ef20ca5c718560c2558097
+P
+ src/test/arrays/ArrayListEx.java,5\1\5122a4dd02ad3e9b6569e301414d5ef7757d15f7
+[
++src/test/sliding_window/SlidingWindow2.java,9\d\9deb47d44169127ac92847689f269896677f0a9a
+V
+&src/test/lambda/LambdaExpression2.java,c\e\ce1273d4c3a308530e2cceefea63a76184033fd5
